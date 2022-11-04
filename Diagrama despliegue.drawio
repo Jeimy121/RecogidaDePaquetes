@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T00:38:26.809Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ldTnHyTFd3Axdyr-h4_A" version="20.5.1" type="github"><diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">7Vpdk5owFP01PnYGCCA+ruvu9qHtdGqnfY5whcwGQmNctb++iYRvdJmtrnTKk8nJzQf3nHuTIBN0H++fOE6jzywAOrGMYD9Bi4llmbbhyR+FHDJkamsg5CTQRiWwJL9Bg4ZGtySATc1QMEYFSeugz5IEfFHDMOdsVzdbM1qfNcUhtIClj2kb/UkCEWnUNIyy4SOQMNJTe45uWGH/OeRsm+j5EpZA1hLjfBhtuolwwHYVCD1M0D1nTGSleH8PVLk191jW7/FEa7FkDono0wHNTMcAz/bWpuPZhv9Bj/CC6Va7YU6Z/6xXKw65c16ACyJ9dUdJmEhIsHSC5ljXKKzl9PNNin2ShN9V28IrgU/H5oVVIt+0G80jFuFUTeNvV6CqmTKkLNA8IFxSTZiaZMO2ypvzNUvEUq/MlvVIxFTZy+KRBFDPamTjZs5WFZ/FxNdlildA5wVr94wyLpuOvMlugrPnQgKmnvERx4QqZf8AHuAE5wvRi7XaTOSulZ6DfQXSzDwBi0HwgzTJW3OV5AGkq7tSjQhpLKoIsVAX1hEQFkOXUpAFrYaeyrBGZQxGGQ4akjLQqIzBKANN68qwzbY0LLdDGqZzDWnYLWlMLBfH6dGBv7ZM/pJEAF9jH4oWrlskQJUkVlyWQlFFcuALjiEH5eJWpWFDewMhuJS7D+q5i6X+3Ubh1kmXZ68W6abZQfpVOHdanMuz4ZZCi5MiZlmcSq+qxz+RDXTwI/fm9FV0dIloNRvEIadNnNVBnHsN4tyOYG1QJkeQx2/lwV1EBCxTFbdosZM3gOFk0esEGWoEmYU6MmvXnnsNqqZjjPU+KzWT401jzBs3xHeI1ak1pA1xNubVM1y51oDyaq6JMbG+TpxtN64abkeQvVtiNc12UAUh5Jc87bq6/yv+CPAmOuJmD/djLu7UC8YG9kjUcjNmVV27Xl1iIQnyHiyFJEMq9rKWE+X25/MkifKay314ReNyiSGI82dB5cKzWuBAsSAv9VemlyW2I1uOxHZ5CvXgdTYcXtFZXoGu2O6hBE4zfFVSdY/bkTrrQep0OKTaI6k9SHV7kOoMh1TnLKmMi4iFLMH09sxeMAfXNo630ez0oNm+NM3HrtIf+FAxSJm8VW4qI39VQOXlhtM4hDf/N2zYW7kmuu1lIVtBKbjiUd6oQfeSGvyPDgXTHhr0hpNqpv9Mqrn5JtLnuGcNIru4s3q2sD3nytnCG2V0SRmZg5CR5V1URrJafmiTmZcfMqGHPw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-04T02:43:22.496Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="9VlsOht9AJMKX9CQwQ_p" version="20.5.1" type="github">
+  <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
+    <mxGraphModel dx="2202" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uZW-xY0Y-J60Wbhx_hxe-13" value="TCP/ IP" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="39150e848f15840c-1" target="39150e848f15840c-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39150e848f15840c-1" value="&amp;lt;&amp;lt;Dispositivo&amp;gt;&amp;gt;&lt;br&gt;Switch (une servidores o computadoras)" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="205" y="280" width="330" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="39150e848f15840c-2" value="&amp;lt;&amp;lt;Procesador&amp;gt;&amp;gt;&lt;br&gt;Servidor Web (página)" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="-120" y="35" width="330" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="39150e848f15840c-3" value="&amp;lt;&amp;lt;Procesador&amp;gt;&amp;gt;&lt;br&gt;Servidor Base Datos" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="230" y="40" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uZW-xY0Y-J60Wbhx_hxe-1" value="&amp;lt;&amp;lt;Procesador&amp;gt;&amp;gt;&lt;br&gt;Servidor Correos&amp;nbsp;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="560" y="30" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="uZW-xY0Y-J60Wbhx_hxe-8" value="&amp;lt;&amp;lt;Procesador&amp;gt;&amp;gt;&lt;br&gt;PC Recogidas" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="640" y="400" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="uZW-xY0Y-J60Wbhx_hxe-9" value="&amp;lt;&amp;lt;Procesador&amp;gt;&amp;gt;&lt;br&gt;PC Administrador" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="620" y="220" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="uZW-xY0Y-J60Wbhx_hxe-10" value="&amp;lt;&amp;lt;Procesador&amp;gt;&amp;gt;&lt;br&gt;PC Detalles Paquete&lt;br&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="640" y="580" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="uZW-xY0Y-J60Wbhx_hxe-11" value="&amp;lt;&amp;lt;Dispositivo&amp;gt;&amp;gt;&lt;br&gt;Códigos" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="-170" y="330" width="330" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="uZW-xY0Y-J60Wbhx_hxe-12" value="3com&lt;br&gt;48 puertos&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uZW-xY0Y-J60Wbhx_hxe-14" value="&amp;lt;&amp;lt;Procesador&amp;gt;&amp;gt;&lt;br&gt;PC Datos Cliente" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="330" y="610" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="uZW-xY0Y-J60Wbhx_hxe-15" value="&amp;lt;&amp;lt;Procesador&amp;gt;&amp;gt;&lt;br&gt;PC Estados" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="40" y="610" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="uZW-xY0Y-J60Wbhx_hxe-16" value="Directorio telefónico corporativo" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="100" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uZW-xY0Y-J60Wbhx_hxe-17" value="Programa de busqueda&#xa;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="180" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uZW-xY0Y-J60Wbhx_hxe-18" value="Resultado de la&#xa;busqueda" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="90" y="186" width="100" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="uZW-xY0Y-J60Wbhx_hxe-19" value="Programa de presentación" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="570" y="90" width="180" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
