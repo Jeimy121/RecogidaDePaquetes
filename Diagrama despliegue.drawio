@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T02:56:11.826Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="haMUp2ymtQcve5530spK" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T03:15:23.189Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="M__eRQtUsiWsAJcDpKCO" version="20.5.1" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="2202" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2937" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="39150e848f15840c-1" value="&amp;lt;&amp;lt;Dispositivo&amp;gt;&amp;gt;&lt;br&gt;Switch (une servidores o computadoras)" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="205" y="290" width="330" height="210" as="geometry" />
+          <mxGeometry x="240" y="270" width="330" height="210" as="geometry" />
         </mxCell>
         <mxCell id="39150e848f15840c-2" value="&amp;lt;&amp;lt;Procesador&amp;gt;&amp;gt;&lt;br&gt;Servidor Web (página)" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="-120" y="35" width="330" height="220" as="geometry" />
@@ -20,25 +20,37 @@
           <mxGeometry x="560" y="30" width="260" height="150" as="geometry" />
         </mxCell>
         <mxCell id="uZW-xY0Y-J60Wbhx_hxe-8" value="&amp;lt;&amp;lt;Procesador&amp;gt;&amp;gt;&lt;br&gt;PC Recogidas" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="640" y="400" width="260" height="150" as="geometry" />
+          <mxGeometry x="-40" y="330" width="260" height="150" as="geometry" />
         </mxCell>
         <mxCell id="uZW-xY0Y-J60Wbhx_hxe-9" value="&amp;lt;&amp;lt;Procesador&amp;gt;&amp;gt;&lt;br&gt;PC Administrador" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="620" y="220" width="260" height="150" as="geometry" />
         </mxCell>
         <mxCell id="uZW-xY0Y-J60Wbhx_hxe-10" value="&amp;lt;&amp;lt;Procesador&amp;gt;&amp;gt;&lt;br&gt;PC Detalles Paquete&lt;br&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="640" y="580" width="260" height="150" as="geometry" />
+          <mxGeometry x="-170" y="580" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="uZW-xY0Y-J60Wbhx_hxe-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uZW-xY0Y-J60Wbhx_hxe-11" target="uZW-xY0Y-J60Wbhx_hxe-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uZW-xY0Y-J60Wbhx_hxe-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=105;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uZW-xY0Y-J60Wbhx_hxe-11" target="uZW-xY0Y-J60Wbhx_hxe-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uZW-xY0Y-J60Wbhx_hxe-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uZW-xY0Y-J60Wbhx_hxe-11" target="uZW-xY0Y-J60Wbhx_hxe-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uZW-xY0Y-J60Wbhx_hxe-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uZW-xY0Y-J60Wbhx_hxe-11" target="uZW-xY0Y-J60Wbhx_hxe-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uZW-xY0Y-J60Wbhx_hxe-11" value="&amp;lt;&amp;lt;Dispositivo&amp;gt;&amp;gt;&lt;br&gt;Códigos" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="-170" y="300" width="330" height="220" as="geometry" />
+          <mxGeometry x="-520" y="280" width="330" height="220" as="geometry" />
         </mxCell>
         <mxCell id="uZW-xY0Y-J60Wbhx_hxe-12" value="3com&lt;br&gt;48 puertos&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="365" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uZW-xY0Y-J60Wbhx_hxe-14" value="&amp;lt;&amp;lt;Procesador&amp;gt;&amp;gt;&lt;br&gt;PC Datos Cliente" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="320" y="540" width="300" height="270" as="geometry" />
+          <mxGeometry x="-560" y="560" width="300" height="250" as="geometry" />
         </mxCell>
         <mxCell id="uZW-xY0Y-J60Wbhx_hxe-15" value="&amp;lt;&amp;lt;Procesador&amp;gt;&amp;gt;&lt;br&gt;PC Estados" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="40" y="610" width="260" height="150" as="geometry" />
+          <mxGeometry x="-890" y="315" width="260" height="150" as="geometry" />
         </mxCell>
         <mxCell id="uZW-xY0Y-J60Wbhx_hxe-16" value="Directorio telefónico &#xa;corporativo" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-90" y="80" width="140" height="50" as="geometry" />
@@ -47,31 +59,31 @@
           <mxGeometry x="-90" y="140" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uZW-xY0Y-J60Wbhx_hxe-18" value="Resultado de la&#xa;busqueda" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
-          <mxGeometry x="100" y="146" width="100" height="38" as="geometry" />
+          <mxGeometry x="90" y="142" width="100" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="uZW-xY0Y-J60Wbhx_hxe-19" value="Contraseñas cifradas" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="580" y="90" width="140" height="50" as="geometry" />
+        <mxCell id="uZW-xY0Y-J60Wbhx_hxe-19" value="Link activación&#xa;Código  &#xa;&#xa;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="600" y="90" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uZW-xY0Y-J60Wbhx_hxe-20" value="Usuarios &#xa;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="uZW-xY0Y-J60Wbhx_hxe-20" value="Usuarios&#xa;Contraseñas &#xa;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="280" y="100" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uZW-xY0Y-J60Wbhx_hxe-21" value="Programa de &#xa;presentación&#xa;" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-90" y="200" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uZW-xY0Y-J60Wbhx_hxe-22" value="Generador de códigos&#xa;aleatorios" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="385" width="160" height="50" as="geometry" />
+        <mxCell id="uZW-xY0Y-J60Wbhx_hxe-22" value="Generador de códigos&#xa;aleatorios -  # guía " style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="365" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uZW-xY0Y-J60Wbhx_hxe-23" value="Fechas &#xa;disponibles" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="660" y="460" width="100" height="50" as="geometry" />
+          <mxGeometry x="10" y="400" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uZW-xY0Y-J60Wbhx_hxe-25" value="Dimensiones ancho x alto x largo&#xa;Peso aproximado&#xa;Delicado o No" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="660" y="630" width="210" height="60" as="geometry" />
+          <mxGeometry x="-150" y="630" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uZW-xY0Y-J60Wbhx_hxe-26" value=" Remitente:&#xa;Dirección - ciudad &#xa;Nombre completo&#xa;No. Identificación&#xa;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="335" y="640" width="200" height="70" as="geometry" />
+          <mxGeometry x="-515" y="640" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uZW-xY0Y-J60Wbhx_hxe-27" value="Destinatario:&#xa;Dirección - ciudad&#xa;Nombre completo&#xa;No. Identificación " style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="340" y="720" width="200" height="70" as="geometry" />
+          <mxGeometry x="-510" y="720" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
